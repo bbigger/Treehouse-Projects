@@ -8,5 +8,5 @@ The following courses pertain to full stack web development. This README.md file
 
 - [x] SQL Basics (Course uses SQL Playground)
 - [x] Ruby on Rails 5 Basics
-- [-] Rails Routes and Resources
-- [-] Active Record Associations in Rails
+- [ ] Rails Routes and Resources
+- [ ] Active Record Associations in Rails
